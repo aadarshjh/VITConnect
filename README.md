@@ -90,4 +90,4 @@ VITConnect is a fully static web application — no build step or server require
 
 ## 📄 License
 
-© 2025 VITConnect. All rights reserved.
+© 2026 VITConnect. All rights reserved.
